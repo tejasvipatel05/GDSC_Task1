@@ -1,0 +1,13 @@
+id=int(input("enter id:"))
+name=input("enter name:")
+roll_no=int(input("enter roll number:"))
+m_num=int(input("enter mobile number:"))
+email=input("enter email:")
+address=input("enter address:")
+
+print("id: ",id)
+print("name: ",name)
+print("roll number: ",roll_no)
+print("mobile number: ",m_num)
+print("email: ",email)
+print("address: ",address)
